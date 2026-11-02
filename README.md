@@ -14,7 +14,8 @@ Hoonjin Jung<sup>3</sup> ·
 <sub>* Equal contribution</sub>
 <br/><br/>
 
-[![Hugging Face Paper](https://img.shields.io/badge/HuggingFace-Paper%20of%20the%20Day%20%232-orange)](https://huggingface.co/papers/2610.35684)
+<a href="https://huggingface.co/papers/2610.35684"><img src="assets/hf-paper-of-the-day.svg" alt="#1 Paper of the Day on Hugging Face Daily Papers" width="224"></a>
+
 [![arXiv](https://img.shields.io/badge/arXiv-2610.35684-b31b1b.svg)](https://arxiv.org/abs/2610.35684)
 [![Page](https://img.shields.io/badge/Project-Homepage-blue.svg)](https://justin4ai.github.io/OmniShowcase/)
 ![Showcase-4K](https://img.shields.io/badge/%F0%9F%A4%97_Showcase--4K-Dataset-fbbf24)
